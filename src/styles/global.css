@@ -1,0 +1,14 @@
+/* src/styles/global.css */
+body {
+    background-color: #f4f6f8; /* Light gray background */
+    background-image: url('https://via.placeholder.com/1500'); /* Optional image background */
+    background-size: cover; /* Make the image cover the whole page */
+    background-position: center; /* Position the background image in the center */
+    font-family: 'Roboto', sans-serif; /* Optional font */
+    color: #333; /* Text color */
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #333; /* Header text color */
+  }
+  
